@@ -5,4 +5,4 @@
 - `npm run watch` or `npm run compile`
 - `F5` to start debugging
 
-Run the `Start coding session` to create the webview.
+Run the `Start NEAR Social coding session` to create the webview.
